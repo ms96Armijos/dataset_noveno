@@ -1,0 +1,17 @@
+Id;Edad;Altura;Peso;Genero;Tipo de Sangre;Lugar de Nacimiento;Etnia;Estado Civil;Discapacidad;Estudios de tercer nivel;Indice deMasa Corporal
+E1;28;150;63;M;A+;Loja;Mestizo;Soltero;no;no;1
+E2;23;165;62;M;A+;Marcabeli;Mestizo;Soltero;no;no;0
+E3;22;163;61;F;O+;Loja;Mestizo;Soltero;no;no;0
+E4;24;166;64;M;O+;Zamora;Mestizo;Soltero;no;no;0
+E5;24;178;72;M;O+;Quito;Mestizo;Soltero;no;no;0
+E6;26;171;62;M;A+;Macará;Mestizo;Soltero;no;no;0
+E7;26;164;61;M;O+;Loja;Mestizo;Soltero;no;no;0
+E8;25;165;74;M;O+;Yantzaza;Mestizo;Soltero;no;no;1
+E9;24;175;78;M;O+;Loja;Mestizo;Soltero;no;no;1
+E10;25;155;53;F;O+;Macara;Mestizo;Soltero;no;no;0
+E11;29;158;64;M;O+;San Golqui;Mestizo;Soltero;no;no;1
+E12;22;170;75;M;O+;Cariamanga;Mestizo;Soltero;no;no;1
+E13;23;173;76;M;O+;Machala;Mestizo;Soltero;no;no;1
+E14;25;176;81;M;O+;Loja;Mestizo;Soltero;no;no;1
+E15;22;175;62;M;O+;Pinas;Mestizo;Soltero;no;no;0
+E16;24;181;65;M;O+;Machala;Mestizo;Soltero;no;no;0
